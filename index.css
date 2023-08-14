@@ -136,6 +136,9 @@ body {
   justify-content: center;
   font-size: 18px;
 }
+.btn:hover {
+  background-image: linear-gradient(#6542fe, #342ce2);
+}
 
 @media (max-width: 800px) {
   .parent {
